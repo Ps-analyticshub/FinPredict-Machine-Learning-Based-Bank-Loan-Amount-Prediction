@@ -1,0 +1,2 @@
+# FinPredict-Machine-Learning-Based-Bank-Loan-Amount-Prediction
+FinPredict – Machine Learning Based Bank Loan Amount Prediction is a regression-based ML project developed to predict loan amounts using customer financial data. The model applies data preprocessing, log transformation, and Random Forest Regression to improve accuracy. The solution is deployed using Streamlit for real-time loan amount prediction.
